@@ -1,6 +1,5 @@
-### Hi, I'm Davide
+### Hi, I'm Davide 
 
-- 🖥️ I've been coding in PHP and Python for over 2 years
-- 🌱 I’m currently learning AWS
-- 🎧 I'll nerd about audio software
-- 📃 Lately I've been using Obsidian + Nvim to take notes
+- 🖥️ I've been coding professionally in PHP and Python for over 2 years
+- 🌱 I’m currently learning Go and AWS
+- 📃 Lately I've been using Obsidian + Neovim to take notes
